@@ -1,0 +1,14 @@
+{
+    "name": "الاسم",
+    "email": "البريد الالكتروني",
+    "order.address": "عنوان الطلب",
+    "order.description": "تفاصيل الطلب",
+    "order.recieve.location": "مكان الاستلام",
+    "order.delivery.location": "توصيل الي",
+    "order.total.pay": "اجمالي السعر",
+    "order.delivery.fees": "مصاريف الشحن",
+    "order.title":"عنوان الطلب",
+    "validation.required":"الحقل مطلوب",
+    "submit":"حفظ",
+    "home.header":"منصة موصول تقوم بربط وتوصيل التجار بخدمات الشحن علي مستوي الشرق الاوسط"
+  }

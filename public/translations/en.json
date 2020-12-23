@@ -1,0 +1,14 @@
+{
+    "name": "Name",
+    "email": "Email",
+    "order.address": "order Address",
+    "order.description": "order description",
+    "order.recieve.location": "Recieve Location",
+    "order.delivery.location": "Delivery Location",
+    "order.total.pay": "Total Pay",
+    "order.delivery.fees": "Delivery Fees",
+    "order.title":"order Title",
+    "validation.required":"Field is required",
+    "submit":"Submit",
+    "home.header":"mwsul.com is a platform to connect supplier eCommerce owners with delivery services"
+  }
